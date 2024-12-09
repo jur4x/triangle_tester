@@ -1,0 +1,18 @@
+# .gitignore
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore IDE specific files (example for VSCode)
+.vscode/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore any other files that shouldn't be tracked
+*.log
