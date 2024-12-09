@@ -40,4 +40,4 @@ Prompts the user for side lengths and returns the type of triangle based on the 
 ### Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/triangle-type-checker.git](https://github.com/jur4x/triangle.git)
+[git clone [https://github.com/your-username/triangle-type-checker.git](https://github.com/jur4x/triangle_tester.git)]
